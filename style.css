@@ -90,4 +90,9 @@ a {
   
   .round {
     border-radius: 50%;
+
+  }
+
+  .table{
+      padding:40px; 
   }
